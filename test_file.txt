@@ -7,3 +7,4 @@ Add Prime and Not Prime buttons
 Style Prime and Not Prime buttons with custom colors
 
 Add functionality to check if a number is prime
+Display feedback when a user answers
