@@ -1,11 +1,7 @@
-This is a test file.
-Some new changes
-Another change
 Initial project setup with SwiftUI Prime Checker app
 Add main number display with large bold font
 Add Prime and Not Prime buttons
 Style Prime and Not Prime buttons with custom colors
-
 Add functionality to check if a number is prime
 Display feedback when a user answers
 Add timer to update number every 5 seconds
