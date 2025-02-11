@@ -17,3 +17,4 @@ Enhance score summary alert with custom styling
 Make number display dynamic with larger font size
 Refactor code for better readability and structure
 Add user feedback for auto-updated numbers
+Enhance Prime/Not Prime feedback messages
