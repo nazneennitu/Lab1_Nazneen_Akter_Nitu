@@ -18,3 +18,4 @@ Make number display dynamic with larger font size
 Refactor code for better readability and structure
 Add user feedback for auto-updated numbers
 Enhance Prime/Not Prime feedback messages
+Add additional states for game tracking (game over)
