@@ -21,3 +21,4 @@ Enhance Prime/Not Prime feedback messages
 Add additional states for game tracking (game over)
 Adjust number generation range to be more varied
 Optimize performance of prime-checking algorithm
+Add more comments and documentation for clarity
