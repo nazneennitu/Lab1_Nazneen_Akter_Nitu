@@ -3,3 +3,4 @@ Some new changes
 Another change
 Initial project setup with SwiftUI Prime Checker app
 Add main number display with large bold font
+Add Prime and Not Prime buttons
