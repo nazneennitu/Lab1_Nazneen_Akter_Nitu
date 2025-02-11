@@ -6,3 +6,4 @@ Add functionality to check if a number is prime
 Display feedback when a user answers
 Add timer to update number every 5 seconds
 Track correct and incorrect answers
+Track correct and incorrect answers
