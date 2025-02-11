@@ -15,3 +15,4 @@ git commit -m Improve button layout with padding and spacing
 Improve button layout with padding and spacing
 Enhance score summary alert with custom styling
 Make number display dynamic with larger font size
+Refactor code for better readability and structure
