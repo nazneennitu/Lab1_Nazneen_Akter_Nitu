@@ -9,3 +9,5 @@ Track correct and incorrect answers
 Track correct and incorrect answers
 git commit -m Show score summary after 10 attempts
 Show score summary after 10 attempts
+Add reset function to restart the game
+Add reset function to restart the game
