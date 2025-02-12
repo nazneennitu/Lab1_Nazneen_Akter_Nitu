@@ -115,7 +115,7 @@
 			children = (
 				DACEE52B2D5BB57D00E8E578 /* Lab1_Nazneen_AkterNituTests.swift */,
 			);
-			path = Lab1_Nazneez_AkterNituTests;
+			path = Lab1_Nazneen_AkterNituTests;
 			sourceTree = "<group>";
 		};
 		DACEE5342D5BB57D00E8E578 /* Lab1_Nazneen_AkterNituUITests */ = {
