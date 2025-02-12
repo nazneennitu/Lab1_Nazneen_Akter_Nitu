@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DACEE51B2D5BB57B00E8E578 /* Lab1_Nazneen_AkterNituApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DACEE51A2D5BB57B00E8E578 /* Lab1_Nazneez_AkterNituApp.swift */; };
+		DACEE51B2D5BB57B00E8E578 /* Lab1_Nazneen_AkterNituApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DACEE51A2D5BB57B00E8E578 /* Lab1_Nazneen_AkterNituApp.swift */; };
 		DACEE51D2D5BB57B00E8E578 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DACEE51C2D5BB57B00E8E578 /* ContentView.swift */; };
 		DACEE51F2D5BB57D00E8E578 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DACEE51E2D5BB57D00E8E578 /* Assets.xcassets */; };
 		DACEE5222D5BB57D00E8E578 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DACEE5212D5BB57D00E8E578 /* Preview Assets.xcassets */; };
-		DACEE52C2D5BB57D00E8E578 /* Lab1_Nazneen_AkterNituTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DACEE52B2D5BB57D00E8E578 /* Lab1_Nazneez_AkterNituTests.swift */; };
-		DACEE5362D5BB57D00E8E578 /* Lab1_Nazneen_AkterNituUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DACEE5352D5BB57D00E8E578 /* Lab1_Nazneez_AkterNituUITests.swift */; };
-		DACEE5382D5BB57D00E8E578 /* Lab1_Nazneen_AkterNituUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DACEE5372D5BB57D00E8E578 /* Lab1_Nazneez_AkterNituUITestsLaunchTests.swift */; };
+		DACEE52C2D5BB57D00E8E578 /* Lab1_Nazneen_AkterNituTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DACEE52B2D5BB57D00E8E578 /* Lab1_Nazneen_AkterNituTests.swift */; };
+		DACEE5362D5BB57D00E8E578 /* Lab1_Nazneen_AkterNituUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DACEE5352D5BB57D00E8E578 /* Lab1_Nazneen_AkterNituUITests.swift */; };
+		DACEE5382D5BB57D00E8E578 /* Lab1_Nazneen_AkterNituUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DACEE5372D5BB57D00E8E578 /* Lab1_Nazneen_AkterNituUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
